@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+
+MANIFEST
+
+venv/
+.env
+
+*.log
+logs/
+
+nltk_data/
